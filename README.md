@@ -1,5 +1,5 @@
 <h1></h1>
-php -d memory_limit=-1 composer.phar install
+php -d memory_limit=-1 composer.phar install<br>
 php composer.phar dump-autoload
 php artisan optimize
 npm install
